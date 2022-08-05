@@ -1,5 +1,5 @@
 {
-    "name": "iamrekas/facebook-php-sdk",
+    "name": "facebook/php-sdk",
     "description": "Facebook SDK for PHP",
     "keywords": ["facebook", "sdk"],
     "type": "library",
