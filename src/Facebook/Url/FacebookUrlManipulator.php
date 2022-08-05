@@ -94,7 +94,7 @@ class FacebookUrlManipulator
         // Sort for a predicable order
         ksort($newParams);
 
-        return $path . '?' . http_build_query($newParams, null, '&');
+        return $path . '?' . http_build_query($newParams, "", '&');
     }
 
     /**
